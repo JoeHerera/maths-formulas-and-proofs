@@ -1,0 +1,17 @@
+we have a function of:
+f(x)=e^x
+lets add ln on each side:
+ln(f(x))=ln(e^x)
+so ln(f(x))=x
+lets do derivative for this:
+the derivative of ln(f(x)) is f'(x)/f(x)
+and the derivative of x is 1.
+so we have f'(x)/f(x)=1
+lets take f(x) to the opposite side so now we multiply it by 1
+now we have f'(x)=f(x)
+and according to the function we started with:
+f(x)=e^x
+so we replace f(x) with e^x in f'(x)=f(x).
+and we get f'(x)=e^x.
+so the derivative of f(x)=e^x is e^x.
+so we proved that the derivative of e^x is e^x.
